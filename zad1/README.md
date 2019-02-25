@@ -28,7 +28,7 @@ Are you sure you want to continue conecting (yes/no)? █
 
 Stworzony przez studentów program powinien wczytać z argumentu wywołania skrót klucza publicznego. Skrót taki składa się z 16 bajtów w zapisie heksadecymalnym.  
 Przykład:  
-fc94b0c1e5b0987c5843997697ee96b7
+**fc94b0c1e5b0987c5843997697ee96b7**
 
 Po wczytaniu, skrót należy przekonwertować z zapisu heksadecymalnego do tablicy 16 bajtów a następnie przekształcić na ASCII-Art (algorytm konwersji podano w dalszej części instrukcji). Uzyskany ASCII-Art należy wypisać na ekran.
 
