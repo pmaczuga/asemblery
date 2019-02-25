@@ -9,9 +9,10 @@ Celem zadania realizowanego w trakcie dwóch pierwszych spotkań laboratoryjnych
 
 W ramach pierwszego zadania studenci zaimplementują program realizujący prostą grafikę ASCII. W szczególności, program ten będzie prezentował jako ASCII-art skróty kluczy publicznych (_key fingerprint_). Studenci zaznajomieni z współczesną dystrybucję Linuxa zapewne spotkali się już z takim sposobem "wyrażania" kluczy publicznych w pakiecie OpenSSH
 
-'''
+```
 The authenticity of host '149.156.87.95' (149.156.87.95)' can't be established. RSA key fingerprint is d5:29:3e:9a:8d:90:26:5d:6b:6b:fb:8a:bb:a5:da:23.
 +--[ RSA 1024]----+
 |                 |
 |           . .   |
 |        . ° °    |   
+```
