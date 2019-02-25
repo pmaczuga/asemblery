@@ -3,7 +3,7 @@
 
 ### Cel ćwiczenia
 
-Celem zadania realizowanego w trakcie dwóch pierwszych spotkań laboratoryjnych jest zazanjomienie studentów z podstawowymi aspektami asemblera 8086, a w szczególności: dostępnymi rejestrami mikroprocesora i ich funkcją, segmentami pamięci operacyjnej i sopsobami jej adresacji metodami konstrukcją pętli i instrukcji sterujących za pomocą skoków warunkowych, instrukcjami operatorów logicznych, przesunięć bitowych i operatorów arytmetycznych, a także funcjami przerwania 21h realizującymi wejście z klawiatury i wyjście tekstowe na ekran.
+Celem zadania realizowanego w trakcie dwóch pierwszych spotkań laboratoryjnych jest zaznajomienie studentów z podstawowymi aspektami asemblera 8086, a w szczególności: dostępnymi rejestrami mikroprocesora i ich funkcją, segmentami pamięci operacyjnej i sopsobami jej adresacji metodami konstrukcją pętli i instrukcji sterujących za pomocą skoków warunkowych, instrukcjami operatorów logicznych, przesunięć bitowych i operatorów arytmetycznych, a także funcjami przerwania 21h realizującymi wejście z klawiatury i wyjście tekstowe na ekran.
 
 ### Zadanie
 
@@ -26,7 +26,7 @@ RSA key fingerprint is d5:29:3e:9a:8d:90:26:5d:6b:6b:fb:8a:bb:a5:da:23.
 Are you sure you want to continue conecting (yes/no)? █
 ```
 
-Stworzony przez studentó program powinien wczytać z argumentu wywołania skrót klucza publicznego. Skrót taki składa się z 16 bajtów w zapisie heksadecymalnym.  
+Stworzony przez studentów program powinien wczytać z argumentu wywołania skrót klucza publicznego. Skrót taki składa się z 16 bajtów w zapisie heksadecymalnym.  
 Przykład:  
 fc94b0c1e5b0987c5843997697ee96b7
 
