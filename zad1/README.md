@@ -56,3 +56,6 @@ Przechodząc przez szachownicę goniec zapamiętuje ile razy znajdował się na 
 |------------------|-|-|-|-|--|-|-|-|-|--|--|--|--|--|
 | Znak ASCII       |.|o|+|=|\*|B|O|X|@|% |& |# |/ |^ |
 
+Jeśli dane pole było odwiedzone więcej niż 14 razy, wstawiamy jest w nie znak "^". Dodatkowo, w polu, w którym goniec rozpoczął ruch wstawian jest litera S, zaś w polu, w którym ruch zakończył wstawiana jest litera E.
+
+Po wstawieniu odpowiednich symboli, szachownica reprezentuje ASCII-Art dla zadanego skrótu klucza publicznego.
