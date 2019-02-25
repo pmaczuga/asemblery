@@ -14,5 +14,13 @@ The authenticity of host '149.156.87.95' (149.156.87.95)' can't be established. 
 +--[ RSA 1024]----+
 |                 |
 |           . .   |
-|        . ° °    |   
+|        . ° °    |  
+|     . ° + .     |
+|    . = S °      |
+|     ° ° * .     |
+|        B .      |
+|    E..= .       |
+|    .°*+°°.      |
++-----------------|
+Are you sure you want to continue conecting (yes/no)? █
 ```
