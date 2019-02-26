@@ -64,8 +64,8 @@ Po wstawieniu odpowiednich symboli, szachownica reprezentuje ASCII-Art dla zadan
 ## Notatki
 
 Argumenty:
-- 1 lub 0 - flaga bouncing - czy goniec ma odpijać się od ścian
+- 1 lub 0 - flaga bouncing - czy goniec ma odbijać się od ścian
 - 32 znakowy klucz publiczny
 
 wywołanie np:  
-```fingerprint 0 fc94b0c1e5b0987c5843997697ee96b7
+```fingerprint 0 fc94b0c1e5b0987c5843997697ee96b7```
