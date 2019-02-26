@@ -8,3 +8,7 @@
 5. Uruchomić program: ```nazwa```
 
 **Uwaga**: sprawdzić zawartość folderu w DOSBox'sie - (zmienia nazwy plików?)
+
+## Przydatne
+
+Debuger - **emu8086**
