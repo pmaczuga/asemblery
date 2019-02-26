@@ -60,3 +60,12 @@ Przechodząc przez szachownicę goniec zapamiętuje ile razy znajdował się na 
 Jeśli dane pole było odwiedzone więcej niż 14 razy, wstawiamy jest w nie znak "^". Dodatkowo, w polu, w którym goniec rozpoczął ruch wstawian jest litera S, zaś w polu, w którym ruch zakończył wstawiana jest litera E.
 
 Po wstawieniu odpowiednich symboli, szachownica reprezentuje ASCII-Art dla zadanego skrótu klucza publicznego.
+
+## Notatki
+
+Argumenty:
+- 1 lub 0 - flaga bouncing - czy goniec ma odpijać się od ścian
+- 32 znakowy klucz publiczny
+
+wywołanie np:  
+```fingerprint 0 fc94b0c1e5b0987c5843997697ee96b7
