@@ -1,5 +1,5 @@
 ## Zadanie 1 - zajęcia 1 i 2
-## _Prezentacja funckji skrótu klucza publicznego (ang. key fingerprint) w postaci grafiki ASCII_
+## _Prezentacja funkcji skrótu klucza publicznego (ang. key fingerprint) w postaci grafiki ASCII_
 
 ### Cel ćwiczenia
 
