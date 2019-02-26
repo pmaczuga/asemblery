@@ -7,4 +7,4 @@
 4. ```C:```
 5. Uruchomić program: ```nazwa```
 
-**Uwaga**: sprawdzić zawartość folderu - (zmienia nazwy plików?)
+**Uwaga**: sprawdzić zawartość folderu w DOSBox'sie - (zmienia nazwy plików?)
